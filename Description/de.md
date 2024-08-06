@@ -5,6 +5,7 @@ Dieses Skript bietet eine automatische Wiedergabefunktion für Videos auf [monsn
 - Wenn ein Video auf [monsnode.com](https://monsnode.com) ausgewählt wird, klickt es automatisch auf den Video-URL-Link auf der Zielseite `video.twimg.com` und entfernt automatisch die Übergangsseite.
 - Videos auf `video.twimg.com` werden automatisch abgespielt.
 - Das Video wird stummgeschaltet abgespielt, aber Sie können es durch Klicken auf den Bildschirm laut schalten. Sie können die Stummschaltung auch mit der `0`-Taste ein- und ausschalten.
+- `video.twimg.com` funktioniert auch alleine einwandfrei.
 
 ---
 

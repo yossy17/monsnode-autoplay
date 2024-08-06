@@ -5,6 +5,7 @@
 - 在[monsnode.com](https://monsnode.com)上选择视频时，它会自动点击目标`video.twimg.com`页面上的视频URL链接，并自动删除过渡页面。
 - `video.twimg.com`上的视频会自动播放。
 - 视频开始时是静音播放的，但你可以通过点击屏幕来取消静音，也可以使用`0` 键切换静音开/关。
+- `video.twimg.com` 单独也能正常工作。
 
 ---
 
