@@ -13,8 +13,8 @@
 // @description:ko      동영상을 선택하면 대상 동영상 URL을 자동으로 클릭하고 자동으로 재생합니다
 // @description:ru      При выборе видео автоматически кликает по URL-адресу целевого видео и автоматически воспроизводит его
 // @description:de      Wenn ein Video ausgewählt wird, klickt es automatisch auf die Ziel-Video-URL und spielt es automatisch ab
-// @version             1.0.1
-// @author              Yos_sy17
+// @version             1.0.2
+// @author              Yos_sy
 // @match               https://monsnode.com/*
 // @match               https://video.twimg.com/*
 // @namespace           http://tampermonkey.net/
